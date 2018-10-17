@@ -1,0 +1,149 @@
+body{
+  background-color: #CEDBDB;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+  color: #8E2729;
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+h2 {
+  color: #3D2F2F;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px;
+}
+
+h3 {
+  color: #3D2F2F;
+  font-size: 20px;
+}
+
+
+p {
+  font-size: 12px;
+  color: #686868;
+}
+
+a {
+  text-decoration: none;
+  font-size: 40px;
+  color: #2B2B2B;
+}
+a:hover {
+  color: #3E4F51;
+}
+
+img {
+  width: 200px;
+}
+
+#see4 {
+  background-color: #A02B2D;
+  margin: 5px;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  opacity: 0.6;
+  padding: 4px;
+}
+
+#my_image {
+  width: 100px;
+  border-radius: 50px;
+  box-shadow: 2px 4px 3px #777676;
+}
+
+.container {
+  padding: 20px;
+  width: 500px;
+  border-radius: 4px;   /* This sets the width */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;  /* This automatically sets left/right margins */
+}
+
+
+.user_links {
+  width: 300px;   /* This sets the width */
+  background-color: white;
+  margin: 0 auto;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 10px 0px 10px 77px;
+}
+
+.fav_mov_table {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+}
+
+.fav_mov_table img {
+  padding: 10px
+
+}
+
+.fav_mov_table h3 {
+  padding: 15px
+  opacity: 0.6;
+  text-align: center;
+}
+
+.fav_mov_table p {
+  padding: 15px
+
+}
+
+.card {
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+
+
+.about_page a {
+  font-size: 40px;
+}
+
+
+
+.fav_mov_table h2{
+  margin: 10px;
+}
+
+
+
+.list_inline {
+  padding-left: 0px;
+}
+
+.list_inline > li {
+  display: inline-block;
+  padding-right: 10px
+}
+/*
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;*/
